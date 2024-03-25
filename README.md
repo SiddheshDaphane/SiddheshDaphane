@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddheshdaphane" alt="siddheshdaphane" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Siddhesh_Daph" target="blank"><img src="https://img.shields.io/twitter/follow/mlwithsiddhesh?logo=twitter&style=for-the-badge" alt="siddhesh Daph" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Siddhesh_Daph" target="blank"><img src="https://img.shields.io/twitter/follow/siddhesh_Daph?logo=twitter&style=for-the-badge" alt="siddhesh Daph" /></a> </p>
 
 - 🌱 I’m currently learning **Python, SQL and PowerBI**
 
