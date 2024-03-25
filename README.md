@@ -9,15 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/Siddhesh_Daph" target="blank"><img src="https://img.shields.io/twitter/follow/siddhesh_Daph?logo=twitter&style=for-the-badge" alt="siddhesh Daph" /></a> </p>
 
-- 🌱 I’m currently learning **Python, SQL and PowerBI**
-
-- 📝 I regularly write articles on [https://learnhub-science-tech-politics.blogspot.com/](https://learnhub-science-tech-politics.blogspot.com/)
+- 🌱 I’m currently learning **Python,JavaScript, SQL and PowerBI**
 
 - 💬 Ask me about **SQL, ML, Data Engineering and Analytics**
 
 - 📫 How to reach me **siddhesh.daphane@gmail.com**
 
-- ⚡ Fun fact **I am transitioning from mechanical engineering to the data world.**
+- ⚡ Fun fact **I did my undergraduation in Mechnical Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
