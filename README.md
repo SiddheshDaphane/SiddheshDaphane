@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **siddhesh.daphane@gmail.com**
 
-- ⚡ Fun fact **I did my under-graduation in Mechnical Engineering**
+- ⚡ Fun fact **I did my bachelor's in Mechnical Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
